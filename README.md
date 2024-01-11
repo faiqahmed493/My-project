@@ -1,4 +1,4 @@
 # My-project
 This is my first Git-repository
-*Br*
+Br
 Author:Faiq Ahmed
